@@ -1,3 +1,8 @@
+/**
+ * Name:        BORA AVCU
+ * Student ID:  250444902
+ * Date:        11.10.2026
+ */
 package game.inventory;
 
 public class Item {

@@ -1,3 +1,8 @@
+/**
+ * Name:        BORA AVCU
+ * Student ID:  250444902
+ * Date:        11.10.2026
+*/
 import game.inventory.Item;
 import game.inventory.Inventory;
 

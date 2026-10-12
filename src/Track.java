@@ -1,3 +1,11 @@
+/**
+ * Track.java
+ * Represents a single music track in a streaming playlist.
+ *
+ * Name:        BORA AVCU
+ * Student ID:  250444902
+ * Date:        11.10.2026
+ */
 public class Track {
 
     private String title;
